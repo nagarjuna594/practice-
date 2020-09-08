@@ -1,5 +1,11 @@
 this is first file in git hub
 this line by dev1
+<<<<<<< HEAD
 this line again by dev1
 
+||||||| merged common ancestors
+
+=======
+this line by dev2
+>>>>>>> 76689ef4a414f0e3d53257be1c0f9c85f4e5d4bc
 
